@@ -1,0 +1,15 @@
+/Users/jackjolliffe/Desktop/source/repos/Fall2022-Pillars-of-OOP/Fall2022-Pillars-of-OOP/Fall2022-Pillars-of-OOP/obj/Debug/net6.0/Fall2022-Pillars-of-OOP.csproj.AssemblyReference.cache
+/Users/jackjolliffe/Desktop/source/repos/Fall2022-Pillars-of-OOP/Fall2022-Pillars-of-OOP/Fall2022-Pillars-of-OOP/obj/Debug/net6.0/Fall2022-Pillars-of-OOP.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jackjolliffe/Desktop/source/repos/Fall2022-Pillars-of-OOP/Fall2022-Pillars-of-OOP/Fall2022-Pillars-of-OOP/obj/Debug/net6.0/Fall2022-Pillars-of-OOP.AssemblyInfoInputs.cache
+/Users/jackjolliffe/Desktop/source/repos/Fall2022-Pillars-of-OOP/Fall2022-Pillars-of-OOP/Fall2022-Pillars-of-OOP/obj/Debug/net6.0/Fall2022-Pillars-of-OOP.AssemblyInfo.cs
+/Users/jackjolliffe/Desktop/source/repos/Fall2022-Pillars-of-OOP/Fall2022-Pillars-of-OOP/Fall2022-Pillars-of-OOP/obj/Debug/net6.0/Fall2022-Pillars-of-OOP.csproj.CoreCompileInputs.cache
+/Users/jackjolliffe/Desktop/source/repos/Fall2022-Pillars-of-OOP/Fall2022-Pillars-of-OOP/Fall2022-Pillars-of-OOP/bin/Debug/net6.0/Fall2022-Pillars-of-OOP
+/Users/jackjolliffe/Desktop/source/repos/Fall2022-Pillars-of-OOP/Fall2022-Pillars-of-OOP/Fall2022-Pillars-of-OOP/bin/Debug/net6.0/Fall2022-Pillars-of-OOP.deps.json
+/Users/jackjolliffe/Desktop/source/repos/Fall2022-Pillars-of-OOP/Fall2022-Pillars-of-OOP/Fall2022-Pillars-of-OOP/bin/Debug/net6.0/Fall2022-Pillars-of-OOP.runtimeconfig.json
+/Users/jackjolliffe/Desktop/source/repos/Fall2022-Pillars-of-OOP/Fall2022-Pillars-of-OOP/Fall2022-Pillars-of-OOP/bin/Debug/net6.0/Fall2022-Pillars-of-OOP.dll
+/Users/jackjolliffe/Desktop/source/repos/Fall2022-Pillars-of-OOP/Fall2022-Pillars-of-OOP/Fall2022-Pillars-of-OOP/bin/Debug/net6.0/Fall2022-Pillars-of-OOP.pdb
+/Users/jackjolliffe/Desktop/source/repos/Fall2022-Pillars-of-OOP/Fall2022-Pillars-of-OOP/Fall2022-Pillars-of-OOP/obj/Debug/net6.0/Fall2022-Pillars-of-OOP.dll
+/Users/jackjolliffe/Desktop/source/repos/Fall2022-Pillars-of-OOP/Fall2022-Pillars-of-OOP/Fall2022-Pillars-of-OOP/obj/Debug/net6.0/refint/Fall2022-Pillars-of-OOP.dll
+/Users/jackjolliffe/Desktop/source/repos/Fall2022-Pillars-of-OOP/Fall2022-Pillars-of-OOP/Fall2022-Pillars-of-OOP/obj/Debug/net6.0/Fall2022-Pillars-of-OOP.pdb
+/Users/jackjolliffe/Desktop/source/repos/Fall2022-Pillars-of-OOP/Fall2022-Pillars-of-OOP/Fall2022-Pillars-of-OOP/obj/Debug/net6.0/Fall2022-Pillars-of-OOP.genruntimeconfig.cache
+/Users/jackjolliffe/Desktop/source/repos/Fall2022-Pillars-of-OOP/Fall2022-Pillars-of-OOP/Fall2022-Pillars-of-OOP/obj/Debug/net6.0/ref/Fall2022-Pillars-of-OOP.dll
